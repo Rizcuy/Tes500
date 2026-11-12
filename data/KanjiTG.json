@@ -34,7 +34,7 @@
             { "kanji": "着る", "hiragana": "きる", "arti": "Memakai (pakaian)" },
             { "kanji": "書く", "hiragana": "かく", "arti": "Menulis" },
             { "kanji": "場所", "hiragana": "ばしょ", "arti": "Tempat" },
-            { "kanji": "話す", "hiragana": "はなし", "arti": "Berbicara" }, // disesuaikan standar kata kerja dasarnya: はなす
+            { "kanji": "話す", "hiragana": "はなす", "arti": "Berbicara" },
             { "kanji": "待つ", "hiragana": "まつ", "arti": "Menunggu" },
             { "kanji": "生活", "hiragana": "せいかつ", "arti": "Kehidupan sehari-hari" },
             { "kanji": "英語", "hiragana": "えいご", "arti": "Bahasa Inggris" },
