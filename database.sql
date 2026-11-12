@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS db_quiz;
+USE db_quiz;
+
+CREATE TABLE IF NOT EXISTS nilai_quiz (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama_pengunjung VARCHAR(100) NOT NULL,
+    kategori_quiz VARCHAR(100) NOT NULL,
+    skor INT NOT NULL,
+    tanggal TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
